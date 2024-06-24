@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Electrical and Computer Engineering department at the University of British Columbia (UBC), advised by [Prof. Vincent Wong](https://people.ece.ubc.ca/vincentw/Homepage/Home.html). Previously, I received my B.S. and M.S. degrees from Dalian University of Technology, Dalian, China, under the supervision of [Prof. Ming Li](https://www.minglabdut.com/index.html). My research interests include integrated sensing and communications, signal processing, and machine learning. 
+I am a Ph.D. student in the Electrical and Computer Engineering department at the University of British Columbia (UBC), advised by [Prof. Vincent Wong](https://people.ece.ubc.ca/vincentw/Homepage/Home.html). Previously, I received my B.S. and M.S. degrees from Dalian University of Technology, under the supervision of [Prof. Ming Li](https://www.minglabdut.com/index.html). My research interests include integrated sensing and communications, signal processing, and machine learning. 
 
 News
 ------

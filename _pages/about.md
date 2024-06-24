@@ -18,4 +18,5 @@ News
   <li>I won the Brandwajn Graduate Award in ECE UBC, May 2023.</li>
   <li>I started to serve as the Assistant to Editor-in-Chief of the IEEE Transactions on Wireless Communications, January 2023.</li>
   <li>I received the IEEE International Conference on Communications (ICC) 2022 Best Paper Awards, May 2022.</li>
+  <li>I received the UBC Four Year Doctoral Fellowship (4YF), September 2020.</li>
 </ul>

@@ -17,5 +17,5 @@ News
   <li>I served as a TPC member of the 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), July 2023.</li>
   <li>I won the Brandwajn Graduate Award in ECE UBC, May 2023.</li>
   <li>I started to serve as the Assistant to Editor-in-Chief of the [IEEE Transactions on Wireless Communications](https://www.comsoc.org/publications/journals/ieee-twc/editorial-board), January 2023.</li>
-  <li>I received the IEEE International Conference on Communications (ICC) 2022 Best Paper Awards, May 2022.<li>
+  <li>I received the IEEE International Conference on Communications (ICC) 2022 Best Paper Awards, May 2022.</li>
 </ul>

@@ -16,5 +16,11 @@ Journal Publications
 by Zihuan Wang, Vincent W.S. Wong, and Robert Schober <br>
 IEEE Journal of Selected Topics in Signal Processing, October 2024. 
 
+[**Bayesian Meta-Learning for Adaptive Traffic Prediction in Wireless Networks**](http://zihuanwang.github.io/files/Bayesian_Meta-Learning_for_Adaptive_Traffic_Prediction_in_Wireless_Networks.pdf)<br>
+by Zihuan Wang and Vincent W.S. Wong <br>
+EEE Transactions on Mobile Computing, June 2024. 
+
+
+
 Conference Publications
 ------

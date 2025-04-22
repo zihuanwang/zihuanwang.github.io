@@ -12,10 +12,9 @@ author_profile: true
 
 Journal Publications
 ------
-title: "Integrated Sensing and Communications for End-to-End Predictive Beamforming Design in Vehicle-to-Infrastructure Networks"
-date: October 2024
-venue: 'IEEE Journal of Selected Topics in Signal Processing'
-paperurl: 'http://zihuanwang.github.io/files/Integrated_Sensing_and_Communications_for_End-to-End_Predictive_Beamforming_Design_in_Vehicle-to-Infrastructure_Networks.pdf'
+[**Integrated Sensing and Communications for End-to-End Predictive Beamforming Design in Vehicle-to-Infrastructure Networks**](http://zihuanwang.github.io/files/Integrated_Sensing_and_Communications_for_End-to-End_Predictive_Beamforming_Design_in_Vehicle-to-Infrastructure_Networks.pdf)<br>
+by Zihuan Wang, Vincent W.S. Wong, and Robert Schober <br>
+IEEE Journal of Selected Topics in Signal Processing, October 2024. 
 
 Conference Publications
 ------

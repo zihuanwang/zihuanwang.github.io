@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap"><a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+  <div class="wordwrap"><a href="{{site.author.googlescholar}}">Google Scholar</a></div>
 {% endif %}
 
 
 Selected Publications
-------
+
 [**Cooperative ISAC for Localization and Velocity Estimation Using OFDM Waveforms in Cell-Free MIMO Systems**](http://zihuanwang.github.io/files/WW-ICASSP-2025.pdf)<br>
 by Zihuan Wang and Vincent W.S. Wong <br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, April 2025. 

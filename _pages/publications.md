@@ -9,8 +9,6 @@ author_profile: true
   <div class="wordwrap"><a href="{{site.author.googlescholar}}">Google Scholar</a></div>
 {% endif %}
 
-<div style="font-size:0.9em; line-height:1.4;">
-
 Selected Publications
 ---
 - [**Cooperative ISAC for Localization and Velocity Estimation Using OFDM Waveforms in Cell-Free MIMO Systems**](http://zihuanwang.github.io/files/WW-ICASSP-2025.pdf)<br> 
@@ -77,4 +75,3 @@ by Zihuan Wang, Ming Li, Hongyu Li, and Qian Liu <br>
 by Zihuan Wang, Ming Li, Xiaowen Tian, and Qian Liu <br>
 *IEEE Communications Letters*, July 2017.
 
-</div>

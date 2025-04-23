@@ -22,7 +22,7 @@ News
 Awards
 ---
 - Li Tze Fong Memorial Fellowship, University of British Columbia, 2023
-- BRANDWAJN Graduate Award, University of British Columbia, 2023.</li>
+- BRANDWAJN Graduate Award, University of British Columbia, 2023
 - Best Paper Award,  IEEE International Conference on Communications (ICC), 2022
 - Four Year Doctoral Fellowship, University of British Columbia, 2020
 - Provincial Outstanding Graduate, 2020

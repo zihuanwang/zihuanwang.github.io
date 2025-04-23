@@ -11,6 +11,7 @@ author_profile: true
 
 
 Selected Publications
+---
 
 [**Cooperative ISAC for Localization and Velocity Estimation Using OFDM Waveforms in Cell-Free MIMO Systems**](http://zihuanwang.github.io/files/WW-ICASSP-2025.pdf)<br>
 by Zihuan Wang and Vincent W.S. Wong <br>

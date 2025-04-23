@@ -10,9 +10,11 @@ author_profile: true
 {% endif %}
 
 
+<div style="font-size:0.9em; line-height:1.4;">
+  
 Selected Publications
 ---
-<small>- [**Cooperative ISAC for Localization and Velocity Estimation Using OFDM Waveforms in Cell-Free MIMO Systems**](http://zihuanwang.github.io/files/WW-ICASSP-2025.pdf)<br> </small>
+- [**Cooperative ISAC for Localization and Velocity Estimation Using OFDM Waveforms in Cell-Free MIMO Systems**](http://zihuanwang.github.io/files/WW-ICASSP-2025.pdf)<br> 
 by Zihuan Wang and Vincent W.S. Wong <br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, April 2025. 
 
@@ -74,5 +76,6 @@ by Zihuan Wang, Ming Li, Hongyu Li, and Qian Liu <br>
 
 - [**Iterative Hybrid Precoder and Combiner Design for mmWave Multiuser MIMO Systems**](http://zihuanwang.github.io/files/Iterative_Hybrid_Precoder_and_Combiner_Design_for_mmWave_Multiuser_MIMO_Systems.pdf)<br>
 by Zihuan Wang, Ming Li, Xiaowen Tian, and Qian Liu <br>
-*IEEE Communications Letters*, July 2017. 
+*IEEE Communications Letters*, July 2017.
 
+</div>

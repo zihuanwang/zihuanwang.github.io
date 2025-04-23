@@ -11,27 +11,24 @@ I am a Ph.D. student in the Electrical and Computer Engineering department at th
 
 News
 ---
-<ul style="list-style-type:circle;">
-  <li>I served as a TPC member of the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), June 2024.</li>
-  <li>I won the Affiliated Fellowship from UBC, August 2023.</li>
-  <li>I served as a TPC member of the 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), July 2023.</li>
-  <li>I won the Brandwajn Graduate Award in ECE UBC, May 2023.</li>
-  <li>I started to serve as the Assistant to Editor-in-Chief of the IEEE Transactions on Wireless Communications, January 2023.</li>
-  <li>I received the IEEE International Conference on Communications (ICC) 2022 Best Paper Awards, May 2022.</li>
-  <li>I received the UBC Four Year Doctoral Fellowship (4YF), September 2020.</li>
-</ul>
+- I served as a TPC member of the 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), June 2024
+- I won the Affiliated Fellowship from UBC, August 2023
+- I served as a TPC member of the 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), July 2023
+- I won the Brandwajn Graduate Award in ECE UBC, May 2023
+- I started to serve as the Assistant to Editor-in-Chief of the IEEE Transactions on Wireless Communications, January 2023
+- I received the IEEE International Conference on Communications (ICC) 2022 Best Paper Awards, May 2022
+- I received the UBC Four Year Doctoral Fellowship (4YF), September 2020
 
 Awards
 ---
-<ul style="list-style-type:circle;">
-  <li>Li Tze Fong Memorial Fellowship, University of British Columbia, 2023.</li>
-  <li>BRANDWAJN Graduate Award, University of British Columbia, 2023.</li>
-  <li>Best Paper Award,  IEEE International Conference on Communications (ICC), 2022.</li>
-  <li>Four Year Doctoral Fellowship, University of British Columbia, 2020.</li>
-  <li>Provincial Outstanding Graduate, 2020.</li>
-  <li>Graduate Academic Star, University of British Columbia, 2020.</li>
-  <li>China National Scholarship, 2017, 2018.</li>
-</ul>
+- Li Tze Fong Memorial Fellowship, University of British Columbia, 2023
+- BRANDWAJN Graduate Award, University of British Columbia, 2023.</li>
+- Best Paper Award,  IEEE International Conference on Communications (ICC), 2022
+- Four Year Doctoral Fellowship, University of British Columbia, 2020
+- Provincial Outstanding Graduate, 2020
+- Graduate Academic Star, University of British Columbia, 2020
+- China National Scholarship, 2017, 2018
+
 
 Service
 ---

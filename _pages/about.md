@@ -35,7 +35,7 @@ Awards
 
 Service
 ---
-- Assistant to Editor-in-Chief, IEEE Transactions on Wireless Communications January 2023 - Present
+- Assistant to Editor-in-Chief, IEEE TWC, January 2023 - Present
 - Technical Program Committee Member: IEEE VTC2024-Fall, IEEE VTC2023-Fall, 2018 ICC Workshos
 - Technical Reviewers: IEEE TCOM, IEEE TWC, IEEE TVT, IEEE TCCN
 - Volunteer: Captain of Student Volunteers, 2024 IEEE INFOCOM

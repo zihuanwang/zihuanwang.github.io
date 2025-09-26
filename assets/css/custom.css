@@ -16,6 +16,11 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.page__content p {
+  text-align: justify;
+  margin-bottom: 1.2em; /* keep nice spacing */
+}
+
 
 .page__content p {
   margin-bottom: 1.2em;

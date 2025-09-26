@@ -1,22 +1,22 @@
-/* === Custom font and wider layout === */
-
-/* Import a modern Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
 body {
-  font-family: 'Inter', sans-serif;
-  font-size: 17px;   /* slightly larger */
-  line-height: 1.6;  /* more breathing room */
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
 }
 
-/* Make main content area wider */
+.page,
 .page__content,
-.archive__item {
-  max-width: 1100px;   /* default is ~800px */
-  margin: 0 auto;
+.archive,
+.archive__item,
+.initial-content {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* Improve spacing between paragraphs */
-p {
+.page__content p {
   margin-bottom: 1.2em;
 }

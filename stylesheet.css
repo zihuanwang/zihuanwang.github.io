@@ -143,3 +143,16 @@ span.highlight {
 li {
   margin-bottom: 6px; 
 }
+
+/* Top navigation tabs */
+.navbar a {
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+

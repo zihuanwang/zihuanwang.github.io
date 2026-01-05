@@ -155,14 +155,3 @@ li {
 .navbar a:hover {
   text-decoration: underline;
 }
-
-/* Equal vertical spacing inside publication rows */
-.paper-row td {
-  padding-top: 16px;
-  padding-bottom: 16px;
-}
-
-.paper-row p {
-  margin-top: 4px;
-  margin-bottom: 4px;
-}

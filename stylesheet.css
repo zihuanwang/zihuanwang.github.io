@@ -155,3 +155,24 @@ li {
 .navbar a:hover {
   text-decoration: underline;
 }
+
+.pub-list {
+  counter-reset: pub-counter;
+}
+
+.pub {
+  counter-increment: pub-counter;
+  margin: 14px 0 18px 0;
+  padding-bottom: 14px;
+  border-bottom: 1px solid #eee;
+  position: relative;
+  padding-left: 2.2em;
+}
+
+.pub::before {
+  content: "[" counter(pub-counter) "] ";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: 500;
+}

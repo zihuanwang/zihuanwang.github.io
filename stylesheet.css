@@ -176,3 +176,29 @@ li {
   top: 0;
   font-weight: 500;
 }
+.pub-section {
+  padding: 12px 14px;
+  border-radius: 10px;
+  margin: 14px 0;
+}
+
+.pub-section-title {
+  margin: 0 0 6px 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* background colors */
+.pub-section.journals {
+  background: #f3f7ff;   /* light blue */
+}
+
+.pub-section.conferences {
+  background: #fff6ef;   /* light orange */
+}
+
+/* optional: remove borders inside sections */
+.pub-section .pub {
+  border-bottom: none;
+  padding-bottom: 0;
+}
